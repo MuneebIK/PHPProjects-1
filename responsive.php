@@ -26,6 +26,7 @@ while($row=$result->fetch_array()){
 		<p> <?php echo $name?> </p>
 		<p> <?php echo $price?> </p>
 		<p> <?php echo $category?> </p>
+		<p> <?php echo $Profit?> </p>
 		
 	</center>
 </div>	
